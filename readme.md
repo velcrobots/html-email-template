@@ -1,6 +1,6 @@
-# Really Simple Responsive HTML Email Template
+# AIN Responsive Email Template
 
-Sometimes all you want is a really simple HTML email template. Here it is.
+For general newsletters that don't need a lot of flashy stuff, use this.
 
 Preview: http://leemunroe.github.io/html-email-template/email.html
 
@@ -18,9 +18,4 @@ You need to put the CSS inline. You can use [Premailer](http://premailer.dialect
 * Copy the HTML results and use them in your email view/template
 
 ### Tried and tested
-
-Tested on all major email clients. Mobile, desktop and web. 
-
-<img src="http://i.imgur.com/TtYvCTr.jpg" alt="Email preview" width="800">
-
-Hat tip to Zurb's [Ink](http://zurb.com/ink/) for their awesome collection of email templates, which this was adapted from.
+Tested on all major email clients. Mobile, desktop and web. Originally forked from https://github.com/leemunroe/html-email-template. I only AIN'ed this.
